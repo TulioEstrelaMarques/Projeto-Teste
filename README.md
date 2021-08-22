@@ -1,2 +1,2 @@
-# Projeto-Teste
- Repositório criado para teste
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
